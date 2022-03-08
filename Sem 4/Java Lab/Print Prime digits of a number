@@ -1,0 +1,30 @@
+package program.java;
+import java.util.Scanner; //using scanner class and object
+import java.io.*; //for input and output
+public class PrimeDigits {
+public static void main(String[] args) {
+Scanner sc = new Scanner(System.in);
+int num=0;
+System.out.println("Enter a value: ");
+num=sc.nextInt();
+int d;
+int flag;
+while(num!=0)
+{
+d=num%10;
+flag=0;
+for(int i=2;i<=(d+1)/2;i++)
+{
+if(d%i==0)
+{
+	flag=1;
+	break;
+}
+}
+if(flag==0)
+	System.out.println(d);
+
+num=num/10;
+}
+}
+}
