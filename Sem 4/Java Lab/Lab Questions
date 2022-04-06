@@ -1,0 +1,19 @@
+Q1. Write a java program to check whether a number is prime or not.
+Q2. Write a java program to check whether a number is Armstrong or not.
+Q3. Write a java program to reverse a number.
+Q4. Write a java program to check whether a number is even or odd.
+Q5. Write a java program to find the largest among four numbers.
+Q6. Write a java program to find sum of each row and each column of a matrix.
+Q7. Write a java program to take an input as command line argument (Name,Course,roll_no,semester).
+Q8. Using switch statement write a menu driven program to calculate maturity amount of a bank deposit.
+    i) Term Deposit:- principalAmount(p),rateOfInterest(r),time(in years)(t)
+    ii)Recurring Deposit:- monthlyInstallments(p),rateOfInterest(r),time(in months)(t)
+   Formulae:
+   i) Term Deposit=p*(1+r/100)^t       // '^' is exponent sign here.
+   ii)Recurring Deposit= p*t + p*t((t+1)/2)*(r/100)*(1/12)
+Q9. Write a java program to check whether the given two numbers make a friendly pair or not.
+Q10. Write a java program to replace all zeroes with one in a given integer.
+Q11. Write a java program to arrange an array into Zig-Zag form.
+Q12. Write a java program to arrange positive and negative numbers in an array.
+Q13. Write a java program to find the Saddle Point coordinates ini the matrix.
+Q14. Write a java program to find total number of patterns 0(1+)0 in a given string.
