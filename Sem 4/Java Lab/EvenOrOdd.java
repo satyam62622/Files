@@ -1,3 +1,10 @@
+/*
+Problem Statement:
+-> Write a program in java to check whether the input number is even or odd.
+Dated: March.22.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
 import java.util.Scanner;
 public class EvenOrOdd {
 public static void main(String [] Args) {
