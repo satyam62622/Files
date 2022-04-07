@@ -1,3 +1,10 @@
+/*
+Problem Statement:
+-> Write a program in java to check whether the input number is prime or not.
+Dated: March.22.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
 import java.util.Scanner;
 public class CheckPrime {
 public static void main(String args[]) {
