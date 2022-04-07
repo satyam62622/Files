@@ -1,3 +1,11 @@
+/*
+Problem Statement:
+-> Write a program in java to check whether the input number is Armstrong or Not.
+Dated: March.22.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class Armstrong {
 public static void main(String[] Args) {
