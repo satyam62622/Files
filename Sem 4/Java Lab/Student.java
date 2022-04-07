@@ -1,5 +1,10 @@
-//Write a java program to take an input as command line argument (name,course,roll,semester)
-
+/*
+Problem Statement:
+-> Write a java program to take an input as command line argument (name,course,roll,semester).
+Dated: March.29.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
 
 public class Student{
 public static void main(String[] Args){
