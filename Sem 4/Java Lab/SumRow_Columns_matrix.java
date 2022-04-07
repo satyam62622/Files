@@ -1,3 +1,11 @@
+/*
+Problem Statement:
+-> Write a program in java to find sum of each row and each column of a matrix.
+Dated: March.22.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class SumRow_Columns_matrix {
 public static void main(String [] Args) {
