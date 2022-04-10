@@ -1,3 +1,11 @@
+/*
+Problem Statement:
+-> Write a program in java to replace all zeroes woth one to a given number.
+Dated: March.29.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*
+
 import java.util.Scanner;
 public class ReplaceZeroes {
     public static void main(String[] Args){
