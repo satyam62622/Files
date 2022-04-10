@@ -4,7 +4,7 @@ Problem Statement:
 Dated: March.29.2022 (Tuesday)
 By: Satyam Kumar
 GitHub: github.com/satyam62622
-*
+*/
 
 import java.util.Scanner;
 public class ReplaceZeroes {
