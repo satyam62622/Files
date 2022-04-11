@@ -1,3 +1,11 @@
+/*
+Problem Statement:
+-> Write a java program to find total number of patterns 0(1+)0 in a given string.
+Dated: April.05.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class TotalPatterns{
 public static void main(String[] Args){
