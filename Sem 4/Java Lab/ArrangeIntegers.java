@@ -1,3 +1,11 @@
+/*
+Problem Statement:
+-> Write a java program to arrange positive and negative numbers in an array.
+Dated: April.05.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class ArrangeIntegers{
 public static void main(String[] Args)
