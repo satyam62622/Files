@@ -1,4 +1,13 @@
 
+
+/*
+Problem Statement:
+-> Write a program in java to count number of digits in a number(including concept of classes and objects).
+Dated: April.11.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 class Count{
 	public void countDigits()
