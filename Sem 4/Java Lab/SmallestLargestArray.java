@@ -1,3 +1,12 @@
+
+/*
+Problem Statement:
+-> Write a program in java to find smallest and largest number in a given array (including concept of classes and objects).
+Dated: April.11.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class SmallestLargestArray {
 	public static void main(String[] Args) {
