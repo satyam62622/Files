@@ -1,3 +1,12 @@
+
+/*
+Problem Statement:
+-> Write a program in java to display prime numbers between x and y(including concept of classes and objects).
+Dated: April.11.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 
 public class DisplayPrimes {
