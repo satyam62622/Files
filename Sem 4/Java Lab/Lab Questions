@@ -21,3 +21,6 @@ Q15. Write a java program to count number of digits in a number(using concept of
 Q16. Write a java program to display prime numbers between x and y(using concept of class and objects).
 Q17. Write a java program to find smallest and largest number in given array(using concept of class and objects).
 Q18. Write a java program to find the factorial of each member in a given array(using concept of class and objects).
+Q19. Write a java program to showcase method overloading in a class with two methods:
+    arrf(int X[],int num) => to find all pairs in an array whose sum is equal to num.
+    arrf(int A[],int sizeA,int B[],int sizeB) => to merge two sorted arrays and print the final sorted array.
