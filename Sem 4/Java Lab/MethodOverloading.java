@@ -1,3 +1,13 @@
+/*
+Problem Statement:
+->  Write a java program to showcase method overloading in a class with two methods:
+    arrf(int X[],int num) => to find all pairs in an array whose sum is equal to num.
+    arrf(int A[],int sizeA,int B[],int sizeB) => to merge two sorted arrays and print the final sorted array.
+Dated: May.10.2022 (Tuesday)
+By: Satyam Kumar
+GitHub: github.com/satyam62622
+*/
+
 import java.util.Scanner;
 public class MethodOverloading {
 public static void main(String [] Args) {
