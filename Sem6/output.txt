@@ -1,0 +1,6 @@
+
+No. of characters: 83
+No. of words: 20
+No. of spaces: 15
+No. of lines: 4
+No. of tabs: 1
